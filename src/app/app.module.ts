@@ -3,10 +3,11 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { HighlightDirective } from '../directive/highlight-directive/highlighthover.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,HighlightDirective
   ],
   imports: [
     BrowserModule,
