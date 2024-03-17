@@ -1,27 +1,50 @@
-# Directive
+# Angular Custom Directive Repository 🚀
+![Logo](https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+Welcome to the Angular Custom Directive repository! This repository hosts a collection of custom directives developed for use with Angular applications. These directives are designed to enhance the functionality and usability of your Angular projects.
 
-## Development server
+# What are Angular Directives? 🔎
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular directives are powerful tools that allow you to extend HTML with new attributes and tags, creating reusable components and enhancing the structure of your web applications. With custom directives, you can encapsulate complex behaviors and functionalities into reusable components, promoting code reusability and maintainability.
 
-## Code scaffolding
+# Types of directive. 🧑‍💻
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Attribute Directives 🧐
+Customize the behavior and appearance of DOM elements with attribute directives.
 
-## Build
+### Structural Directives 🧐
+Manipulate the DOM layout by adding or removing elements with structural directives.
+ 
+# Features ✨
+### Custom Directives 🕵
+Explore a variety of custom directives tailored to suit different needs and scenarios in Angular development.
+### Enhanced Functionality 🔨
+Implement advanced functionalities and behaviors easily into your Angular applications.
+### Code Reusability 📈
+Encapsulate common UI patterns and functionalities into reusable components for efficient development.
+    
+## Run Locally 👽
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Clone the project 📁
 
-## Running unit tests
+```bash
+  git clone https://link-to-project
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Go to the project directory ⌨
 
-## Running end-to-end tests
+```bash
+  cd my-project
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Install dependencies 🎒
 
-## Further help
+```bash
+  npm install
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Start the server 🧠
+
+```bash
+  npm run start
+```
